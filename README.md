@@ -3,7 +3,7 @@
 </h1>
 <h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏
 </h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=flat" alt="Amatechx" /> 
 </p>
