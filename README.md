@@ -159,7 +159,7 @@
   </a> 
 </p>
 </br>
-***AMATECHX3 GitHub activity graph***
+𝘼𝙈𝘼𝙏𝙀𝘾𝙃𝙓3 𝙂𝙞𝙩𝙃𝙪𝙗 𝙖𝙘𝙩𝙞𝙫𝙞𝙩𝙮 𝙜𝙧𝙖𝙥𝙝
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatechx&show_icons=true&locale=en&layout=compact" alt="Amatechx" />
 </p>
