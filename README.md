@@ -6,13 +6,13 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=flat" alt="Amatechx" /> </p>
 
 
-- 🔭 I’m currently working on [Downloadhub](http://downloadhub.cloud/)
+- 🖥 I’m currently working on [Youtube](https://www.youtube.com/amatechx3)
 
 - 🌱 I’m currently learning **Web Python**
 
-- 📝 I regularly write articles on [https://www.Amatechx.com/](https://www.Amatechx.com/)
+- 📝 I regularly write articles on [Blog](https://amatechx3.blogspot.com/)
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **anything**
 
 - 📫 How to reach me **Amatechx@gmail.com**
 
