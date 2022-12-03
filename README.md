@@ -159,7 +159,7 @@
   </a> 
 </p>
 </br>
-[![AMATECHX3 GitHub activity graph]
+***AMATECHX3 GitHub activity graph***
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatechx&show_icons=true&locale=en&layout=compact" alt="Amatechx" />
 </p>
@@ -167,5 +167,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=amatechx&show_icons=true&locale=en" alt="Amatechx" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Amatechx&" alt="Amatechx" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amatechx&" alt="Amatechx" />
 </p>
