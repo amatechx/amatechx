@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Amatechx.io)
 <h1 align="center">Hi 👋, I'm Amatechx
 </h1>
-<h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓 from Sentul
+<h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> 
