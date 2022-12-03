@@ -159,7 +159,7 @@
   </a> 
 </p>
 </br>
-[![AMATECHX3 GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amatechx&&theme=xcode)](https://github.com/Amatechx)
+[![AMATECHX3 GitHub activity graph]
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amatechx&show_icons=true&locale=en&layout=compact" alt="Amatechx" />
 </p>
