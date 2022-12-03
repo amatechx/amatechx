@@ -4,6 +4,7 @@
 <h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+<div style=align="right";"width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=flat" alt="Amatechx" /> 
 </p>
