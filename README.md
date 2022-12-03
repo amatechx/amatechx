@@ -8,13 +8,18 @@
   <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=flat" alt="Amatechx" /> 
 </p>
 - 🖥 I’m currently working on [Youtube](https://www.youtube.com/amatechx3)
+- </br>
 - 🌱 I’m currently learning **NGO PREK**
+- </br>
 - 📝 I regularly write articles on [Blog](https://amatechx3.blogspot.com/)
+- </br>
 - 💬 Ask me about **Naon wae**
-- 📱 How to reach me **Amatechx@gmail.com**
+- </br>
+- 📱 How to reach me **081572514118**
+- </br>
 - 💀 Fun fact **I think I am Crazy**
-<h3 align="left">Connect with me:
-</h3>
+- </br>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/c/amatechx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hemantagayen" height="30" width="40" />
