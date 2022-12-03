@@ -1,23 +1,23 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Amatechx.io)
 <h1 align="center">Hi 👋, I'm Amatechx
 </h1>
-<h3 align="center">A passionate frontend developer from Bogor
+<h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓 from Bogor
 </h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=flat" alt="Amatechx" /> 
 </p>
-- 🖥 I’m currently working on [Youtube](https://www.youtube.com/amatechx3)
+- 🖥 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 [𝗬𝗼𝘂𝘁𝘂𝗯𝗲](https://www.youtube.com/amatechx3)
 - </br>
-- 🌱 I’m currently learning **NGO PREK**
+- 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 **NGOPREK**
 - </br>
-- 📝 I regularly write articles on [Blog](https://amatechx3.blogspot.com/)
+- 📝 𝗜 𝗿𝗲𝗴𝘂𝗹𝗮𝗿𝗹𝘆 𝘄𝗿𝗶𝘁𝗲 𝗮𝗿𝘁𝗶𝗰𝗹𝗲𝘀 𝗼𝗻 [𝗪𝗲𝗯𝘀𝗶𝘁𝗲](https://amatechx3.blogspot.com/)
 - </br>
-- 💬 Ask me about **Naon wae**
+- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 **Naon wae**
 - </br>
-- 📱 How to reach me **081572514118**
+- 📱 𝗛𝗼𝘄 𝘁𝗼 𝗿𝗲𝗮𝗰𝗵 𝗺𝗲 **081572514118**
 - </br>
-- 💀 Fun fact **I think I am Crazy**
+- 💀 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 **I think I am Crazy**
 - </br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
