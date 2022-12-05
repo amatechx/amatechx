@@ -19,6 +19,8 @@
 </br>
 - 💀 𝗙𝘂𝗻 𝗳𝗮𝗰𝘁 **I think I am Crazy** -
 </br>
+<input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow amatechx" aria-label="Follow amatechx" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:72129297,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:119294203,&quot;originating_url&quot;:&quot;https://github.com/amatechx?tab=followers&quot;}}" data-hydro-click-hmac="3954246e0204171441d82ca056e4a12ea9e0af8ef880cab3143ba6669511b2b9" data-disable-with="Follow">
+</br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.youtube.com/c/amatechx" target="blank">
