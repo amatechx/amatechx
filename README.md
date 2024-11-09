@@ -1,7 +1,7 @@
 # [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Amatechx.io)
 
 <h1 align="center">Hi 👋, I'm Amatechx</h1>
-<h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏</h3>
+<h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒊𝒏 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏, 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒊𝒏𝒆𝒂𝒓 𝒕𝒆𝒄𝒉 𝒂𝒏𝒅 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝑮𝒓𝒆𝒂𝒕 𝒕𝒆𝒄𝒉.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 
@@ -10,11 +10,12 @@
 </p>
 
 ### 🔧 About Me
-- 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 **NGOPREK** and diving into deep tech and cybersecurity challenges.
-- 📝 𝗜 𝗿𝗲𝗴𝘂𝗹𝗮𝗿𝗹𝘆 𝘄𝗿𝗶𝘁𝗲 𝗮𝗿𝘁𝗶𝗰𝗹𝗲𝘀 𝗼𝗻 [𝗪𝗲𝗯𝘀𝗶𝘁𝗲](https://amatechx3.blogspot.com/)
-- 💬 𝗔𝘀𝗸 𝗺𝗲 𝗮𝗯𝗼𝘂𝘁 **Naon wae** or anything related to tech, programming, and cybersecurity.
-- 📱 How to reach me: **081572514118**
-- 💀 Fun fact: **I think I am crazy**
+- 🌱 **Learning and Building**: Currently diving into **Web Development**, **Mobile Apps**, and **Cybersecurity** projects to expand my skills and make the digital world safer.
+- 📝 **Tech Blogger**: I share knowledge and tutorials about **Tech**, **Security**, and **Development** on my [Blog](https://amatechx3.blogspot.com/). Feel free to check out my latest articles!
+- 🔒 **Passionate about Cybersecurity**: My goal is to build robust and secure applications that protect user data and privacy.
+- 🌍 **Influence Tech Culture**: Constantly working towards improving the tech community, contributing to open-source projects, and sharing resources.
+- 📱 How to reach me: **081572514118** or via my social media links below.
+- ⚡ **Fun Fact**: **I think I am crazy**, but that helps me think outside the box, right?
 
 <br>
 
@@ -22,7 +23,7 @@
 
 ---
 
-### 🧑‍💻 Connect with me:
+### 🧑‍💻 Let's Connect:
 <p align="left">
   <a href="https://www.youtube.com/c/amatechx" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Amatechx YouTube" height="30" width="40" />
@@ -46,7 +47,8 @@
 
 ---
 
-### 🔧 Languages & Tools:
+### 🔧 Languages, Tools & Technologies:
+I’m skilled in a variety of technologies that I use for building apps, securing systems, and making technology more accessible for everyone:
 <p align="left">
   <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> 
     <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="AWS Amplify" width="40" height="40"/> 
@@ -88,49 +90,61 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/> 
   </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
   </a>
+  <a href="https://www.ruby-lang.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original-wordmark.svg" alt="Ruby" width="40" height="40"/> 
+  </a> 
 </p>
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amatechx&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117"/>
-</p>
+### 📊 GitHub Stats:
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatechx&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117"/>
-</p>
+| **GitHub Stats**          | **Top Languages** |
+| ------------------------- | ------------------ |
+| ![Amatechx's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amatechx&show_icons=true&hide_title=true&count_private=true&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Amatechx&theme=tokyonight&layout=compact&hide_border=true&bg_color=0d1117) |
 
 ---
 
-### 🖥️ GitHub Contribution Graph
-<p align="center">
-  <img width="80%" src="https://activity-graph.herokuapp.com/graph?username=Amatechx&theme=github&bg_color=0d1117&color=7ac5e6&line=61dafb&point=ffb6b6&hide_border=true" alt="Contribution graph" />
-</p>
-
----
-
-### 🚀 Latest Project
-Here’s a brief overview of the most recent repository:
-
+### 🚀 Latest Project:
 - **[Amatechx-Tutorials](https://github.com/Amatechx/Amatechx-Tutorials)**: A collection of beginner-to-advanced tutorials on **Python**, **Android Development**, and **Web Security**.
-- 🌟 *Stars: 150* | 🍴 *Forks: 25*
+  - 🌟 *Stars: 150* | 🍴 *Forks: 25*
 
 ---
 
-### 🧩 Open Source Contributions
-I have contributed to several open-source projects across **Tech Tutorials**, **Security Tools**, and **Mobile Apps**. Feel free to check them out:
+### 🧩 Open Source Contributions:
+I've contributed to several open-source projects in **Web Security**, **Tech Tutorials**, and **Mobile App Development**. Here are a few noteworthy contributions:
 
 - **[SecurityToolkit](https://github.com/Amatechx/SecurityToolkit)**: Open-source suite of security tools.
-- **[WebExploit](https://github.com/Amatechx/WebExploit)**: A web exploit collection repository.
-  
+- **[WebExploit](https://github.com/Amatechx/WebExploit)**: A collection of web exploits for educational purposes.
+
 ---
 
 ### 🏅 Certifications:
+I am certified in multiple areas of technology, ensuring a comprehensive understanding of different fields:
+
 - **AWS Certified Solutions Architect** | *Amazon*
 - **Google Android Developer** | *Google*
 - **Certified Ethical Hacker (CEH)** | *EC-Council*
 
 ---
+
+### 🎯 Goals for 2024:
+- 🔒 Continue contributing to **Cybersecurity** and make digital space safer for everyone.
+- 📚 Complete more **tech tutorials** and dive into cutting-edge technologies like **AI** and **Blockchain**.
+- 🌍 Build more **open-source projects** that help the community.
+
+---
+
+### 🎮 Fun Projects:
+- **[Amatechx-Playground](https://github.com/Amatechx/Amatechx-Playground)**: A repository full of mini-projects from random algorithms to fun web apps.
+
+---
+
+### 🧠 Random Quote:
+> "Your skills are a reflection of your hard work, not your background or circumstances."
+
+---
+
+Thank you for visiting my profile! 🙌
