@@ -7,7 +7,7 @@
 ### 💻 **Cybersecurity Specialist | Web Developer | Mobile App Developer**  
 🔒 I specialize in creating secure digital environments, tackling **cybersecurity threats**, and building **innovative web and mobile solutions** that help users stay safe while interacting with the digital world.
 
-<div align="center">
+<div align="left">
   <a href="https://amatechx3.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-amatxtechx-blue?logo=blogger&logoColor=white" alt="Blog" /></a>
   <a href="https://github.com/Amatechx" target="_blank"><img src="https://img.shields.io/badge/GitHub-Amatechx-black?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://twitter.com/bstbogor" target="_blank"><img src="https://img.shields.io/badge/Twitter-bstbogor-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>
@@ -72,7 +72,7 @@ An experimental project playground where I try out different **algorithms** and 
 ---
 
 ## 📊 **GitHub Stats**  
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Amatechx&show_icons=true&theme=radical&count_private=true&hide_title=true" alt="Amatechx's GitHub Stats" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amatechx&theme=radical&layout=compact&hide_border=true" alt="Top Languages" width="50%" />
 </div>
@@ -106,7 +106,7 @@ For the year ahead, my focus is to:
 ## 🎤 **Let’s Connect!**  
 You can reach me on these platforms:
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/Amatechx" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Amatechx-blue?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/Amatechx" target="_blank"><img src="https://img.shields.io/badge/GitHub-Amatechx-black?logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://twitter.com/bstbogor" target="_blank"><img src="https://img.shields.io/badge/Twitter-bstbogor-blue?logo=twitter&logoColor=white" alt="Twitter" /></a>
