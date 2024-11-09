@@ -6,8 +6,6 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=Amatechx&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Amatechx" /> 
-</p>
-- 🖥 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻 [𝗬𝗼𝘂𝘁𝘂𝗯𝗲](https://www.youtube.com/amatechx3) -
 </br>
 - 🌱 𝗜’𝗺 𝗰𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝗹𝗲𝗮𝗿𝗻𝗶𝗻𝗴 **NGOPREK**- 
 </br>
