@@ -1,5 +1,5 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://Amatechx.io)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/p8CmBktXV64?si=LnLIJFXlzrC6TbFj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Title](https://img.youtube.com/vi/p8CmBktXV64/0.jpg)](https://www.youtube.com/watch?v=p8CmBktXV64)
 <h1 align="center">Hi 👋, I'm Amatechx
 </h1>
 <h3 align="center">𝑰 𝒘𝒂𝒔 𝒃𝒐𝒓𝒏 𝒇𝒓𝒐𝒎 𝒕𝒉𝒆 𝒍𝒂𝒏𝒅 𝒐𝒇 𝑩𝒐𝒈𝒐𝒓, 𝒕𝒉𝒆 𝒄𝒊𝒕𝒚 𝒐𝒇 𝒓𝒂𝒊𝒏
